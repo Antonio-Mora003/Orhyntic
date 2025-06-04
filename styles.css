@@ -3808,7 +3808,7 @@ form {
   font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', system-ui, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  width: 100%;
+  width: 90%;
   padding: 16px 20px;
   border: 1px solid #d2d2d7;
   border-radius: 12px;
@@ -4111,7 +4111,7 @@ button[type="submit"].loading::after {
   }
 
   form {
-    padding: 24px;
+    padding: 4px;
     box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
   }
 
